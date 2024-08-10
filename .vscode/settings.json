@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\D7032E - Boomerang\\lib\\gson-2.10.1.jar",
+        "e:\\D7032E - Boomerang\\lib\\hamcrest-core-1.3.jar",
+        "e:\\D7032E - Boomerang\\lib\\junit-4.13.2.jar"
+    ],
+    "java.test.config": {
+        "workingDirectory": "${workspaceFolder}"
+    }
+}
